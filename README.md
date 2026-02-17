@@ -6,7 +6,7 @@
 * Bootstrap 5 (Frontend)
 
 ## Como ejecutar
-1. Importar `script.sql` en phpMyAdmin.
-2. Compilar con `mvn clean package`.
-3. Desplegar `api.war` en Tomcat.
-4. Acceder a: `http://localhost:8080/api/`
+1. Importar el archivo "script.sql" en phpMyAdmin.
+2. Compilar con "mvn clean package".
+3. Desplegar el archivo "api.war" en Tomcat.
+4. Acceder a: "http://localhost:8080/api/".
