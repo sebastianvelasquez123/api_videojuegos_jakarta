@@ -1,5 +1,5 @@
-# API REST de Videojuegos - Jakarta EE 10
-## Tecnologías
+# API 
+## Tecnologias
 * Java 21 / Jakarta EE 10
 * MySQL (XAMPP)
 * Tomcat 10
